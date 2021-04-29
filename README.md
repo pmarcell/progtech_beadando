@@ -1,3 +1,3 @@
 # progtech_beadando
-##tervezési minták
-##unit testek
+## tervezési minták
+## unit testek
