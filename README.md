@@ -1,3 +1,9 @@
 # progtech_beadando
-## tervezési minták
-## unit testek
+## Leírás:
+   Egy autó gyárat tervezek reprezentálni. 
+## Tervezési minták:
+  * singleton
+  * prototype
+  * builder
+  * díszítő
+## Unit testek:
